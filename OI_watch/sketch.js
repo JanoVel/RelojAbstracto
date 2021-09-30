@@ -11,7 +11,7 @@ function setup(){
 }
 
 function draw() {
-  background('#94ABA1');
+  background('#ffffff');
   //strokeWeight(2);
   // draw 3 horizontal spaces
   for (let y = 0; y < tileHeight; y += 8) {
