@@ -1,2 +1,2 @@
 # RelojAbstracto
-Sketch de Processing en el que se muestra un reloj extraño
+Sketch de Processing en el que se muestra un reloj extraño que es ifícil de leer
