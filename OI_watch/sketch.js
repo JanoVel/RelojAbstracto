@@ -6,7 +6,8 @@ function setup(){
   createCanvas(520, 680);
   background(255);
   strokeWeight(4);
-  stroke('#000000');
+  //stroke('#000000');
+  stroke('#101010');
   frameRate(1);
 }
 
